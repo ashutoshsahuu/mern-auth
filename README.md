@@ -1,6 +1,5 @@
 # mern-auth
 
-whomsoever it may concern
 The site is hosted on a free hosting website which take time to reload so please wait.
 
 This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack. It includes authentication features that allow users to sign up, log in, and log out, and provides access to protected routes only for authenticated users.
